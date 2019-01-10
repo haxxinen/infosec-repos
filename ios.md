@@ -1,0 +1,22 @@
+### iOS
+
+- github.com/alexzielenski/optool
+- github.com/phonegap/ios-deploy
+- github.com/libimobiledevice/ideviceinstaller
+- github.com/libimobiledevice/libimobiledevice
+- github.com/Alamofire/Alamofire
+- github.com/appsec-labs/iNalyzer
+- github.com/mwrlabs/needle
+- github.com/sunkehappy/iOS-reverse-engineering-tools-backup
+- github.com/nowsecure/node-applesign (NodeJS resign IPA)
+- github.com/maciekish/iReSign (resign IPA)
+- github.com/saucelabs/isign (code-sign non-Apple soft/hard)
+- github.com/Tyilo/insert_dylib (insert dylib load command into a Mach-O binary)
+- github.com/prateek147/DVIA (Damn Vulnerable iOS App)
+- github.com/OWASP/igoat (A Deliberately Insecure iOS Application)
+- github.com/ptoomey3/Keychain-Dumper
+- github.com/stefanesser/dumpdecrypted
+- github.com/dmayer/idb (simplify some common tasks for iOS pentesting)
+- github.com/iSECPartners/ios-ssl-kill-switch
+- github.com/vtky/Swizzler2
+- github.com/BishopFox/bfdecrypt
