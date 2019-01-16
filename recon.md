@@ -14,6 +14,7 @@
 
 - github.com/smicallef/spiderfoot (open source footprinting and intelligence-gathering tool)
 - github.com/1N3/Sn1per (Automated Pentest Recon Scanner)
+- github.com/ydxred/NagaScan
 - github.com/mozilla/minion
 - github.com/Arachni/arachni
-- github.com/0xwindows/NagaScan
+
