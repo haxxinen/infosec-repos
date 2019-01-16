@@ -26,6 +26,7 @@
 
 ### CTF nuggets / writeups / OSCP
 
+- https://gtfobins.github.io/
 - bitvijays.github.io/LFC-VulnerableMachines.html (GOLD!)
 - github.com/chouaibhm/OSCP-Survival-Guide-1
 - backdoorshell.gitbooks.io/oscp-useful-links/content/
