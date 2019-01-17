@@ -39,3 +39,8 @@
 - github.com/xdavidhu/probeSniffer
 - github.com/adamziaja/python/blob/master/probe_request_sniffer.py
 - github.com/adamziaja/python/blob/master/ssid_sniffer.py
+
+
+### WPA2-PMKID
+- github.com/ZerBea/hcxdumptool
+- github.com/ZerBea/hcxtools
