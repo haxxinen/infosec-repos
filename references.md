@@ -22,6 +22,7 @@
 - github.com/tylerph3/awesome-reversing
 - github.com/CHYbeta/Web-Security-Learning
 - github.com/wtsxDev/List-of-web-application-security
+- github.com/adon90/pentest_compilation
 
 
 ### CTF nuggets / writeups / OSCP
