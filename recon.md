@@ -17,4 +17,4 @@
 - github.com/ydxred/NagaScan
 - github.com/mozilla/minion
 - github.com/Arachni/arachni
-
+- github.com/frizb/Vanquish
