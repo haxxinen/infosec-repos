@@ -11,3 +11,5 @@
 - github.com/Coalfire-Research/java-deserialization-exploits
 - github.com/federicodotta/Java-Deserialization-Scanner
 - github.com/pwntester/dotnet-deserialization-scanner
+- github.com/orangetw/My-CTF-Web-Challenges
+- github.com/summitt/burp-ysoserial
