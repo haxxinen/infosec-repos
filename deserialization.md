@@ -8,7 +8,6 @@
 - github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 - github.com/njfox/Java-Deserialization-Exploit
 - github.com/foxglovesec/JavaUnserializeExploits
-- github.com/frohoff/ysoserial
 - github.com/metalnas/loubia
 - github.com/Coalfire-Research/java-deserialization-exploits
 - github.com/federicodotta/Java-Deserialization-Scanner
