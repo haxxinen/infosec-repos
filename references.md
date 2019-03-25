@@ -1,12 +1,7 @@
-### All-in-one pentest
+### Pentest WiKi
 
 - github.com/rmusser01/Infosec_Reference (the infosec reference)
-- github.com/swisskyrepo/PayloadsAllTheThings (useful payloads)
-- github.com/1N3/IntruderPayloads
-- github.com/jivoi/pentest
 - github.com/nixawk/pentest-wiki
-- github.com/milo2012/pentest_scripts
-- github.com/lanjelot/kb (GOLD!)
 
 
 ### Awesome pack for InfoSec
@@ -22,10 +17,5 @@
 - github.com/tylerph3/awesome-reversing
 - github.com/CHYbeta/Web-Security-Learning
 - github.com/wtsxDev/List-of-web-application-security
-
-
-### CTF nuggets / writeups / OSCP
-
-- bitvijays.github.io/LFC-VulnerableMachines.html (GOLD!)
-- github.com/chouaibhm/OSCP-Survival-Guide-1
-- backdoorshell.gitbooks.io/oscp-useful-links/content/
+- github.com/adon90/pentest_compilation
+- github.com/jivoi/awesome-ml-for-cybersecurity
