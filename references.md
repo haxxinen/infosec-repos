@@ -23,6 +23,7 @@
 - github.com/CHYbeta/Web-Security-Learning
 - github.com/wtsxDev/List-of-web-application-security
 - github.com/adon90/pentest_compilation
+- github.com/jivoi/awesome-ml-for-cybersecurity
 
 
 ### CTF nuggets / writeups / OSCP
