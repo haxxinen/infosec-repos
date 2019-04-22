@@ -9,6 +9,5 @@
 - github.com/ircmaxell/php-security-scanner (static security scanner for PHP)
 - github.com/funkatron/phpsecinfo (security information about the PHP environment)
 - github.com/sektioneins/pcc
-- github.com/epinna/weevely3 (weaponized web shell)
 - github.com/hassanazimi/Secure_PHP_Web
 - github.com/robocoder/rips-scanner (A static source code analyser for PHP)
