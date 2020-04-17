@@ -17,3 +17,4 @@
 - github.com/carterjones/javasnoop
 - github.com/fuzzing/MFFA (Media Fuzzing Framework for Android)
 - github.com/kanpol/hk (Automated Dynamic Analysis)
+- github.com/matlink/gplaycli (Google Play Downloader via Command line)
