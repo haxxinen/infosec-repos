@@ -10,3 +10,5 @@
 - github.com/DirectDefense/SuperSerial (Burp Java Deserialization Vulnerability Identification)
 - github.com/mvetsch/JWT4B (JWT Support for Burp)
 - github.com/PortSwigger/example-traffic-redirector (redirect outgoing HTTP requests from one host to another)
+- github.com/federicodotta/Brida (Frida integration in Burp)
+- github.com/PortSwigger/turbo-intruder (Burp Suite extension for sending large numbers of HTTP requests)
