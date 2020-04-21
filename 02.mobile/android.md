@@ -1,5 +1,6 @@
 ### Android
 
+- github.com/m9rco/Genymotion_ARM_Translation (Genymotion ARM Translation)
 - github.com/ac-pm/ProxyOn (Android Xposed Module)
 - github.com/ac-pm/Inspeckage (Android Package Inspector)
 - github.com/ac-pm/SSLUnpinning_Xposed (Android Xposed Module to bypass SSL certificate validation)
