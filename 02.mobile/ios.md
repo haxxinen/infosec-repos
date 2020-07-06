@@ -1,5 +1,7 @@
 ### iOS
 
+- github.com/akusio/KernBypass-Public
+- github.com/ChiChou/bagbak
 - github.com/alexzielenski/optool
 - github.com/phonegap/ios-deploy
 - github.com/libimobiledevice/ideviceinstaller
