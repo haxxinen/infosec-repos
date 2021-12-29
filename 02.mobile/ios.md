@@ -22,3 +22,4 @@
 - github.com/iSECPartners/ios-ssl-kill-switch
 - github.com/vtky/Swizzler2
 - github.com/BishopFox/bfdecrypt
+- github.com/gh2o/rvi_capture
